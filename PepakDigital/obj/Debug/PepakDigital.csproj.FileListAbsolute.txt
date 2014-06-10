@@ -17,3 +17,23 @@ E:\Praktikum Semester 6\NET\PepakDigital\PepakDigital\bin\System.Web.Helpers.xml
 E:\Praktikum Semester 6\NET\PepakDigital\PepakDigital\bin\System.Web.Mvc.xml
 E:\Praktikum Semester 6\NET\PepakDigital\PepakDigital\obj\Debug\PepakDigital.dll
 E:\Praktikum Semester 6\NET\PepakDigital\PepakDigital\obj\Debug\PepakDigital.pdb
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\PepakDigital.dll
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\PepakDigital.pdb
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\EntityFramework.dll
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Helpers.dll
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Mvc.dll
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Razor.dll
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Webpages.dll
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Webpages.Razor.dll
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\EntityFramework.xml
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Razor.xml
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Webpages.xml
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Webpages.Razor.xml
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Helpers.xml
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\bin\System.Web.Mvc.xml
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\obj\Debug\PepakDigital.dll
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\obj\Debug\PepakDigital.pdb
+C:\Users\Prameswari\Documents\DigitalPepakv.2\PepakDigital\obj\Debug\PepakDigital.csprojResolveAssemblyReference.cache
